@@ -1,5 +1,7 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tvainform&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tvainform&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tvainform&hide_progress=false&theme=radical)
 
 <!--
 **tvainform/tvainform** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
